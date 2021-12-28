@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bor1sStan
-- 👀 I’m interested in Cinema, HTML, theatre, CSS and JavaScript
+- 👀 I’m interested in Cinema, HTML, Theatre, CSS and JavaScript
 - 🌱 I’m currently learning HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me with email s9110039682@yandex.ru
